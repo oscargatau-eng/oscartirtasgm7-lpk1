@@ -10,5 +10,5 @@ st.caption("Jomok hepy memang pilihan suki.")
 st.caption("HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAH")
 import streamlit as st
 
-st.title("This is a title")
-st.title("_Streamlit_ is :green[fkin bad] :apple:")
+st.title("This is a title:yellow:")
+
