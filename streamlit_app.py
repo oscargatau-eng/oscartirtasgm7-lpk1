@@ -7,4 +7,4 @@ st.write(
 import streamlit as st
 
 st.caption("Jomok hepy memang pilihan suki.")
-st.caption("A caption with _italics_ :blue[colors] and emojis :sunglasses:")
+st.caption("HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAH")
